@@ -2,7 +2,7 @@
 
 * 姓名：王鼎恩
 * 希望求職地點：新北市、台北市
-* 科系：  東華大學 - 資訊工程
+* 科系：  東華大學 - 資訊工程所
 * E-mail：lab21051@gmail.com
 * 個人網站： https://gitnick815.github.io/myweb
 
