@@ -9,7 +9,6 @@
 ## 技能
 
 * 利用基本HTML+CSS製作的一個名片網站 <a href="https://gitnick815.github.io/namecard/" target="_blank"> 連結</a>
-[連結](https://gitnick815.github.io/namecard/)
 * 用Svg+動畫animation製作一個動畫網站 <a href="https://gitnick815.github.io/weather/" target="_blank"> 連結</a>
 * 使用Bootstrap製作一頁式網站 <a href="https://gitnick815.github.io/dolphin/" target="_blank"> 連結</a>
 * 使用純JS製作的時鐘 <a href="https://gitnick815.github.io/clock/" target="_blank"> 連結</a>
