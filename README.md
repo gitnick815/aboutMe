@@ -9,7 +9,7 @@
 ## 技能
 
 * Vue.js 框架製作一頁式網站 <a href="https://gitnick815.github.io/books/" target="_blank"> 連結</a>
-* 使用純JS製作的時鐘 <a href="https://gitnick815.github.io/clock/" target="_blank"> 連結</a>
+* 使用純 JS 製作的時鐘 <a href="https://gitnick815.github.io/clock/" target="_blank"> 連結</a>
 * 使用 Jquery+AXAJ 製作一購物清單 <a href="https://gitnick815.github.io/shopping/" target="_blank"> 連結</a>
 * 用 jQuery 製作動態互動網站 <a href="https://gitnick815.github.io/phone/" target="_blank"> 連結</a>
 * 用 Svg 動畫 和 animation 製作一個動畫網站 <a href="https://gitnick815.github.io/weather/" target="_blank"> 連結</a>
