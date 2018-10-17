@@ -8,13 +8,13 @@
 
 ## 技能
 
-* Vue.js框架製作一頁式網站 <a href="https://gitnick815.github.io/books/" target="_blank"> 連結</a>
+* Vue.js 框架製作一頁式網站 <a href="https://gitnick815.github.io/books/" target="_blank"> 連結</a>
 * 使用純JS製作的時鐘 <a href="https://gitnick815.github.io/clock/" target="_blank"> 連結</a>
-* 使用Jquery+AXAJ製作一購物清單 <a href="https://gitnick815.github.io/shopping/" target="_blank"> 連結</a>
-* 用jQuery製作動態互動網站 <a href="https://gitnick815.github.io/phone/" target="_blank"> 連結</a>
-* 用Svg+動畫animation製作一個動畫網站 <a href="https://gitnick815.github.io/weather/" target="_blank"> 連結</a>
-* 使用Bootstrap製作一頁式網站 <a href="https://gitnick815.github.io/dolphin/" target="_blank"> 連結</a>
-* 利用基本HTML+CSS製作的一個名片網站 <a href="https://gitnick815.github.io/namecard/" target="_blank"> 連結</a>
+* 使用 Jquery+AXAJ 製作一購物清單 <a href="https://gitnick815.github.io/shopping/" target="_blank"> 連結</a>
+* 用 jQuery 製作動態互動網站 <a href="https://gitnick815.github.io/phone/" target="_blank"> 連結</a>
+* 用 Svg 動畫 和 animation 製作一個動畫網站 <a href="https://gitnick815.github.io/weather/" target="_blank"> 連結</a>
+* 使用 Bootstrap 製作一頁式網站 <a href="https://gitnick815.github.io/dolphin/" target="_blank"> 連結</a>
+* 利用基本 HTML+CSS 製作的一個名片網站 <a href="https://gitnick815.github.io/namecard/" target="_blank"> 連結</a>
 
 
 
